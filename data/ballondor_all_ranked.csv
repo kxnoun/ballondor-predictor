@@ -1,0 +1,391 @@
+Year,Rank,Player
+1998,1,Zinedine Zidane
+1998,2,Davor Šuker
+1998,3,Ronaldo
+1998,4,Michael Owen
+1998,5,Rivaldo
+1998,6,Gabriel Batistuta
+1998,7,Lilian Thuram
+1998,8,Edgar Davids
+1998,8,Dennis Bergkamp
+1998,10,Marcel Desailly
+1998,11,Frank de Boer
+1998,12,Emmanuel Petit
+1998,13,Roberto Carlos
+1998,14,Laurent Blanc
+1998,14,Fabien Barthez
+1999,1,Rivaldo
+1999,2,David Beckham
+1999,3,Andriy Shevchenko
+1999,4,Gabriel Batistuta
+1999,5,Luís Figo
+1999,6,Roy Keane
+1999,7,Christian Vieri
+1999,8,Juan Sebastián Verón
+1999,9,Raúl
+1999,10,Lothar Matthäus
+1999,11,Dwight Yorke
+1999,12,Jaap Stam
+1999,13,Siniša Mihajlović
+1999,14,Zlatko Zahovič
+1999,15,Pavel Nedvěd
+2000,1,Luís Figo
+2000,2,Zinedine Zidane
+2000,3,Andriy Shevchenko
+2000,4,Thierry Henry
+2000,5,Alessandro Nesta
+2000,6,Rivaldo
+2000,7,Gabriel Batistuta
+2000,8,Gaizka Mendieta
+2000,9,Raúl
+2000,10,Paolo Maldini
+2000,10,David Beckham
+2000,12,Zlatko Zahovič
+2000,12,Fabien Barthez
+2000,14,Francesco Toldo
+2000,14,Francesco Totti
+2001,1,Michael Owen
+2001,2,Raúl
+2001,3,Oliver Kahn
+2001,4,David Beckham
+2001,5,Francesco Totti
+2001,6,Luís Figo
+2001,7,Rivaldo
+2001,8,Andriy Shevchenko
+2001,9,Thierry Henry
+2001,9,Zinedine Zidane
+2001,11,Bixente Lizarazu
+2001,12,David Trezeguet
+2001,13,Stefan Effenberg
+2001,14,Henrik Larsson
+2001,14,Alessandro Nesta
+2002,1,Ronaldo
+2002,2,Roberto Carlos
+2002,3,Oliver Kahn
+2002,4,Zinedine Zidane
+2002,5,Michael Ballack
+2002,6,Thierry Henry
+2002,7,Raúl
+2003,8,Rivaldo
+2002,9,Yıldıray Baştürk
+2002,10,Alessandro Del Piero
+2002,11,Hasan Şaş
+2002,12,Ronaldinho
+2002,13,Michael Owen
+2002,13,Ruud van Nistelrooy
+2002,15,Bernd Schneider
+2003,1,Pavel Nedvěd
+2003,2,Thierry Henry
+2003,3,Paolo Maldini
+2003,4,Andriy Shevchenko
+2003,5,Zinedine Zidane
+2003,6,Ruud van Nistelrooy
+2003,7,Raúl
+2003,8,Roberto Carlos
+2003,9,Gianluigi Buffon
+2003,10,David Beckham
+2003,11,Ronaldo
+2003,12,Henrik Larsson
+2003,13,Alessandro Del Piero
+2003,14,Dida
+2003,15,Roy Makaay
+2004,1,Andriy Shevchenko
+2004,2,Deco
+2004,3,Ronaldinho
+2004,4,Thierry Henry
+2004,5,Theodoros Zagorakis
+2004,6,Adriano
+2004,7,Pavel Nedvěd
+2004,8,Wayne Rooney
+2004,9,Ricardo Carvalho
+2004,9,Ruud van Nistelrooy
+2004,11,Angelos Charisteas
+2004,12,Cristiano Ronaldo
+2004,12,Milan Baroš
+2004,14,Zlatan Ibrahimović
+2004,15,Samuel Eto'o
+2005,1,Ronaldinho
+2005,2,Frank Lampard
+2005,3,Steven Gerrard
+2005,4,Thierry Henry
+2005,5,Andriy Shevchenko
+2005,6,Paolo Maldini
+2005,7,Adriano
+2005,8,Zlatan Ibrahimović
+2005,9,Kaká
+2005,10,Samuel Eto'o
+2005,11,John Terry
+2005,12,Juninho
+2005,13,Claude Makélélé
+2005,14,Juan Román Riquelme
+2005,14,Petr Čech
+2006,1,Fabio Cannavaro
+2006,2,Gianluigi Buffon
+2006,3,Thierry Henry
+2006,4,Ronaldinho
+2006,5,Zinedine Zidane
+2006,6,Samuel Eto'o
+2006,7,Miroslav Klose
+2006,8,Didier Drogba
+2006,9,Andrea Pirlo
+2006,10,Jens Lehmann
+2006,11,Deco
+2006,11,Kaká
+2006,13,Franck Ribéry
+2006,14,Gennaro Gattuso
+2006,14,Patrick Vieira
+2007,1,Kaká
+2007,2,Cristiano Ronaldo
+2007,3,Lionel Messi
+2007,4,Didier Drogba
+2007,5,Andrea Pirlo
+2007,6,Ruud van Nistelrooy
+2007,7,Zlatan Ibrahimović
+2007,8,Cesc Fàbregas
+2007,9,Robinho
+2007,10,Francesco Totti
+2007,11,Frédéric Kanouté
+2007,12,Ronaldinho
+2007,13,Steven Gerrard
+2007,14,Juan Román Riquelme
+2007,15,Dani Alves
+2008,1,Cristiano Ronaldo
+2008,2,Lionel Messi
+2008,3,Fernando Torres
+2008,4,Iker Casillas
+2008,5,Xavi
+2008,6,Andrey Arshavin
+2008,7,David Villa
+2008,8,Zlatan Ibrahimović
+2008,9,Kaká
+2008,10,Steven Gerrard
+2008,11,Marcos Senna
+2008,12,Emmanuel Adebayor
+2008,13,Wayne Rooney
+2008,14,Sergio Agüero
+2008,15,Frank Lampard
+2009,1,Lionel Messi
+2009,2,Cristiano Ronaldo
+2009,3,Xavi
+2009,4,Andrés Iniesta
+2009,5,Samuel Eto'o
+2009,6,Kaká
+2009,7,Zlatan Ibrahimović
+2009,8,Wayne Rooney
+2009,9,Didier Drogba
+2009,10,Steven Gerrard
+2009,11,Fernando Torres
+2009,12,Cesc Fàbregas
+2009,13,Edin Džeko
+2009,14,Ryan Giggs
+2009,15,Thierry Henry
+2010,1,Lionel Messi
+2010,2,Andrés Iniesta
+2010,3,Xavi
+2010,4,Wesley Sneijder
+2010,5,Diego Forlán
+2010,6,Cristiano Ronaldo
+2010,7,Iker Casillas
+2010,8,David Villa
+2010,9,Didier Drogba
+2010,10,Xabi Alonso
+2010,11,Carles Puyol
+2010,12,Samuel Eto'o
+2010,13,Mesut Özil
+2010,14,Arjen Robben
+2010,15,Thomas Müller
+2011,1,Lionel Messi
+2011,2,Cristiano Ronaldo
+2011,3,Xavi
+2011,4,Andrés Iniesta
+2011,5,Wayne Rooney
+2011,6,Luis Suárez
+2011,7,Diego Forlán
+2011,8,Samuel Eto'o
+2011,9,Iker Casillas
+2011,10,Neymar
+2011,11,Mesut Özil
+2011,12,Wesley Sneijder
+2011,13,Thomas Müller
+2011,14,David Villa
+2011,15,Bastian Schweinsteiger
+2012,1,Lionel Messi
+2012,2,Cristiano Ronaldo
+2012,3,Andrés Iniesta
+2012,4,Xavi
+2012,5,Radamel Falcao
+2012,6,Iker Casillas
+2012,7,Andrea Pirlo
+2012,8,Didier Drogba
+2012,9,Robin van Persie
+2012,10,Zlatan Ibrahimović
+2012,11,Xabi Alonso
+2012,12,Yaya Touré
+2012,13,Neymar
+2012,14,Mesut Özil
+2012,15,Wayne Rooney
+2013,1,Cristiano Ronaldo
+2013,2,Lionel Messi
+2013,3,Franck Ribéry
+2013,4,Zlatan Ibrahimović
+2013,5,Neymar
+2013,6,Andrés Iniesta
+2013,7,Robin van Persie
+2013,8,Arjen Robben
+2013,9,Gareth Bale
+2013,10,Andrea Pirlo
+2013,11,Radamel Falcao
+2013,12,Yaya Touré
+2013,13,Robert Lewandowski
+2013,14,Philipp Lahm
+2013,14,Xavi
+2014,1,Cristiano Ronaldo
+2014,2,Lionel Messi
+2014,3,Manuel Neuer
+2014,4,Arjen Robben
+2014,5,Thomas Müller
+2014,6,Philipp Lahm
+2014,7,Neymar
+2014,8,James Rodríguez
+2014,9,Toni Kroos
+2014,10,Ángel Di María
+2014,11,Diego Costa
+2014,12,Gareth Bale
+2014,13,Zlatan Ibrahimović
+2014,14,Yaya Touré
+2014,15,Mario Götze
+2015,1,Lionel Messi
+2015,2,Cristiano Ronaldo
+2015,3,Neymar
+2015,4,Robert Lewandowski
+2015,5,Luis Suárez
+2015,6,Thomas Müller
+2015,7,Manuel Neuer
+2015,8,Eden Hazard
+2015,9,Andrés Iniesta
+2015,10,Alexis Sánchez
+2015,11,Zlatan Ibrahimović
+2015,12,Yaya Touré
+2015,13,Sergio Agüero
+2015,14,Javier Mascherano
+2015,15,Paul Pogba
+2016,1,Cristiano Ronaldo
+2016,2,Lionel Messi
+2016,3,Antoine Griezmann
+2016,4,Luis Suárez
+2016,5,Neymar
+2016,6,Gareth Bale
+2016,7,Riyad Mahrez
+2016,8,Jamie Vardy
+2016,9,Gianluigi Buffon
+2016,9,Pepe
+2016,11,Pierre-Emerick Aubameyang
+2016,12,Rui Patrício
+2016,13,Zlatan Ibrahimović
+2016,14,Paul Pogba
+2016,14,Arturo Vidal
+2017,1,Cristiano Ronaldo
+2017,2,Lionel Messi
+2017,3,Neymar
+2017,4,Gianluigi Buffon
+2017,5,Luka Modrić
+2017,6,Sergio Ramos
+2017,7,Kylian Mbappé
+2017,8,N'Golo Kanté
+2017,9,Robert Lewandowski
+2017,10,Harry Kane
+2017,11,Edinson Cavani
+2017,12,Isco
+2017,13,Luis Suárez
+2017,14,Kevin De Bruyne
+2017,15,Paulo Dybala
+2018,1,Luka Modrić
+2018,2,Cristiano Ronaldo
+2018,3,Antoine Griezmann
+2018,4,Kylian Mbappé
+2018,5,Lionel Messi
+2018,6,Mohamed Salah
+2018,7,Raphaël Varane
+2018,8,Eden Hazard
+2018,9,Kevin De Bruyne
+2018,10,Harry Kane
+2018,11,N'Golo Kanté
+2018,12,Neymar
+2018,13,Luis Suárez
+2018,14,Thibaut Courtois
+2018,15,Paul Pogba
+2019,1,Lionel Messi
+2019,2,Virgil van Dijk
+2019,3,Cristiano Ronaldo
+2019,4,Sadio Mané
+2019,5,Mohamed Salah
+2019,6,Kylian Mbappé
+2019,7,Alisson
+2019,8,Robert Lewandowski
+2019,9,Bernardo Silva
+2019,10,Riyad Mahrez
+2019,11,Frenkie de Jong
+2019,12,Raheem Sterling
+2019,13,Eden Hazard
+2019,14,Kevin De Bruyne
+2019,15,Matthijs de Ligt
+2021,1,Lionel Messi
+2021,2,Robert Lewandowski
+2021,3,Jorginho
+2021,4,Karim Benzema
+2021,5,N'Golo Kanté
+2021,6,Cristiano Ronaldo
+2021,7,Mohamed Salah
+2021,8,Kevin De Bruyne
+2021,9,Kylian Mbappé
+2021,10,Gianluigi Donnarumma
+2021,11,Erling Haaland
+2021,12,Romelu Lukaku
+2021,12,Giorgio Chiellini
+2021,14,Leonardo Bonucci
+2021,15,Raheem Sterling
+2022,1,Karim Benzema
+2022,2,Sadio Mané
+2022,3,Kevin De Bruyne
+2022,4,Robert Lewandowski
+2022,5,Mohamed Salah
+2022,6,Kylian Mbappé
+2022,7,Thibaut Courtois
+2022,8,Vinícius Júnior
+2022,9,Luka Modrić
+2022,10,Erling Haaland
+2022,11,Son Heung-min
+2022,12,Riyad Mahrez
+2022,13,Sébastien Haller
+2022,14,Fabinho
+2022,14,Rafael Leão
+2023,1,Lionel Messi
+2023,2,Erling Haaland
+2023,3,Kylian Mbappé
+2023,4,Kevin De Bruyne
+2023,5,Rodri
+2023,6,Vinícius Júnior
+2023,7,Julián Álvarez
+2023,8,Victor Osimhen
+2023,9,Bernardo Silva
+2023,10,Luka Modrić
+2023,11,Mohamed Salah
+2023,12,Robert Lewandowski
+2023,13,Yassine Bounou
+2023,14,İlkay Gündoğan
+2023,15,Emiliano Martínez
+2024,1,Rodri
+2024,2,Vinícius Júnior
+2024,3,Jude Bellingham
+2024,4,Dani Carvajal
+2024,5,Erling Haaland
+2024,6,Kylian Mbappé
+2024,7,Lautaro Martínez
+2024,8,Lamine Yamal
+2024,9,Toni Kroos
+2024,10,Harry Kane
+2024,11,Phil Foden
+2024,12,Florian Wirtz
+2024,13,Dani Olmo
+2024,14,Ademola Lookman
+2024,15,Nico Williams
